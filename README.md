@@ -49,6 +49,7 @@ Login – método POST com e-mail e senha
 Buscar dados do usuário – método GET com parâmetro de ID
 
 🛠️ Tecnologias Utilizadas
+
 📱 FlutterFlow
 
 Construção visual das telas
@@ -69,3 +70,16 @@ Imagens via link (Network)
 GridView
 AppBar e barra inferior
 Personalização de fonte, sombra, cores e arredondamento
+
+<h2>📱 Telas FlutterFlow</h2>
+
+<img width="389" height="791" alt="Captura de tela 2025-12-09 100442" src="https://github.com/user-attachments/assets/6854042e-430c-43e8-86e9-d5edeb51639c" />
+<img width="376" height="786" alt="Captura de tela 2025-12-09 100450" src="https://github.com/user-attachments/assets/cb1ec076-9292-4647-8a00-e398768022b4" />
+<img width="393" height="792" alt="Captura de tela 2025-12-09 100458" src="https://github.com/user-attachments/assets/39526d44-3d93-4a64-8402-e411e1e7eef3" />
+<img width="404" height="788" alt="Captura de tela 2025-12-09 100503" src="https://github.com/user-attachments/assets/c7959508-b903-4ed1-a95e-8e72569e9310" />
+<img width="379" height="789" alt="Captura de tela 2025-12-09 100508" src="https://github.com/user-attachments/assets/52ca5478-2a17-42f2-aaf7-78f2b826e463" />
+
+<h2>🟢 Link Swagger</h2>
+https://atividadeapi-komn.onrender.com/atividade-api/swagger-ui/index.html
+
+Desenvolvido por Pedro Campos Dos Santos Silva
